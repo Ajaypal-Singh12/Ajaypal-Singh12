@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ajaypal Singh
 
-<!--
-**Ajaypal-Singh12/Ajaypal-Singh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Sc IT Student  
+🌱 Learning Web Development  
+🚀 Currently learning HTML, CSS, JavaScript, PHP
+🎯 Goal: Become Full Stack Developer
 
-Here are some ideas to get you started:
+## Skills
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+- Linkedin: https://www.linkedin.com/in/ajaypal-singh-04a22534a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ajaypal-Singh12&show_icons=true)
